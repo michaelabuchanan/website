@@ -1,0 +1,77 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+html
+{
+  background: url(fish.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+body
+{
+  text-align: center;
+  color: black;
+  padding: 0;
+  margin: 0;
+}
+
+div
+{
+  padding: 0;
+  margin: 0;
+}
+
+.line
+{
+  height: 1px;
+  width: 80%;
+  margin-left: 10%;
+  background-color: black;
+}
+
+.text
+{
+  position: table;
+  vertical-align: middle;
+}
+
+#root
+{
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#tbox
+{
+  background-color:white;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 5%;
+}
+
+#fbox
+{
+  background-color: white;
+  height: 5%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+}
+
+#title
+{
+  font-size: 30px;
+}
