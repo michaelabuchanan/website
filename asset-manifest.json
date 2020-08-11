@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.3fa1bcce.chunk.css",
+    "main.js": "/website/static/js/main.67879ec8.chunk.js",
+    "main.js.map": "/website/static/js/main.67879ec8.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.9b825fe6.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.9b825fe6.js.map",
+    "static/js/2.a79e88ae.chunk.js": "/website/static/js/2.a79e88ae.chunk.js",
+    "static/js/2.a79e88ae.chunk.js.map": "/website/static/js/2.a79e88ae.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.211acf6cbb3de5b387220b79f36a14ac.js": "/website/precache-manifest.211acf6cbb3de5b387220b79f36a14ac.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/main.3fa1bcce.chunk.css.map": "/website/static/css/main.3fa1bcce.chunk.css.map",
+    "static/js/2.a79e88ae.chunk.js.LICENSE.txt": "/website/static/js/2.a79e88ae.chunk.js.LICENSE.txt",
+    "static/media/camaro.jpg": "/website/static/media/camaro.dff331cb.jpg",
+    "static/media/dsm.jpg": "/website/static/media/dsm.68bb1f06.jpg",
+    "static/media/gans.png": "/website/static/media/gans.10020358.png",
+    "static/media/index.css": "/website/static/media/mountain.77d3a789.jpg",
+    "static/media/r3.jpg": "/website/static/media/r3.436977d4.jpg",
+    "static/media/website.jpg": "/website/static/media/website.cd4aac26.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b825fe6.js",
+    "static/js/2.a79e88ae.chunk.js",
+    "static/css/main.3fa1bcce.chunk.css",
+    "static/js/main.67879ec8.chunk.js"
+  ]
+}
